@@ -1,8 +1,13 @@
-## Hi there 👋
-
+## Hi there!
 <!--
 **ayanshv/ayanshv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ayansh Varma, an aspiring developer learning something new everyday
 
+I always try to think of ideas which won't only impact me, but can also serve others
+
+I have created projects with a large focus on Python, and am still aquiring new knowledge everyday on different topics and languages
+
+I have always been interested and involved in technology and can't wait to see where it takes me
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
