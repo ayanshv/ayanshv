@@ -8,11 +8,10 @@ Technology has always been a big part of my life, and I’m excited to keep expl
 
 What I’m Focused On:
 
-Building practical, real-world projects
-Strengthening my Python skills
-Exploring new languages and technologies
-Creating tools that others can actually use
-Mindset
+Building practical, real-world projects, 
+strengthening my Python skills, 
+exploring new languages and technologies, 
+creating tools that others can actually use
 
 
 
