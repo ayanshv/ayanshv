@@ -1,4 +1,4 @@
-👋 About Me
+👋 Hey there
 
 Hi, I’m Ayansh Varma — an aspiring developer constantly learning and building.
 
