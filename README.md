@@ -6,14 +6,15 @@ I enjoy creating projects that don’t just help me grow, but also provide real 
 
 Technology has always been a big part of my life, and I’m excited to keep exploring where it can take me, both as a developer and as someone who wants to make useful things.
 
-🚀 What I’m Focused On
+What I’m Focused On:
+
 Building practical, real-world projects
 Strengthening my Python skills
 Exploring new languages and technologies
 Creating tools that others can actually use
-📈 Mindset
-
-Learn. Build. Improve. Repeat.
+Mindset
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
