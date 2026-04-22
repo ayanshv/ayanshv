@@ -1,6 +1,6 @@
 👋 Hey there
 
-Hi, I’m Ayansh Varma — an aspiring developer constantly learning and building.
+I’m Ayansh Varma, an aspiring developer constantly learning and building.
 
 I enjoy creating projects that don’t just help me grow, but also provide real value to others. Most of my work so far has been centered around Python, and I’m continuously expanding into new technologies, tools, and languages.
 
