@@ -16,7 +16,10 @@ exploring new languages and technologies,
 creating tools and games that others can actually use
 
 ## Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Stripe](https://img.shields.io/badge/stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/google%20cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ayanshv&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
