@@ -6,8 +6,6 @@ Technology has always played a big role in my life, and I'm eager to see where i
 
 I like working on projects that not only advance my development skills but also add genuine, significant value for other people. Python has accounted for the majority of my experience thus far, but I am actively broadening my skill set by investigating new tools, technologies, and programming languages.
 
-In addition, I want to work in game development in the future, and I've started laying a solid foundation by exploring Unreal Engine and working on projects with it to get practical experience making captivating and interesting games.
-
 What I’m Focused On:
 
 Building practical, real-world projects, 
